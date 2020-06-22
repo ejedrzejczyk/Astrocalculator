@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Astrokalkulator</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="refresh">Refresh every:</string>
+    <string name="enter">Enter</string>
+    <string name="zero">0</string>
+    <string-array name="list">
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+    </string-array>
+    <string name="sun">Sun</string>
+    <string name="moon">Moon</string>
+    <string name="sunrise_time">Sunrise time:</string>
+    <string name="sunrise_azimuth">Sunrise azimuth:</string>
+    <string name="sunset_time">Sunset time:</string>
+    <string name="sunset_azimuth">Sunset azimuth:</string>
+    <string name="twilight_morning">Twilight morning:</string>
+    <string name="moonrise_time">Moonrise time:</string>
+    <string name="twilight_evening">Twilight evening:</string>
+    <string name="moonset_time">Moonset time:</string>
+    <string name="next_new_moon">Next new moon:</string>
+    <string name="next_full_moon">Next full moon:</string>
+    <string name="moon_illumination">Moon illumination:</string>
+    <string name="moon_age">Moon age:</string>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="settings_size">18sp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_width">88dp</dimen>
+    <dimen name="table_text_size">20sp</dimen>
+
+</resources>
